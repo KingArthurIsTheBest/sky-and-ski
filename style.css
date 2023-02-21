@@ -1,0 +1,99 @@
+.header {
+    align-items: center;
+}
+.header-about {
+    position: absolute;
+    width: 74px;
+    height: 34px;
+    left: 743px;
+    top: 38px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.9672px;
+    line-height: 140%;
+    /* identical to box height, or 34px */
+    
+    
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header-shop {
+    position: absolute;
+    width: 62px;
+    height: 34px;
+    left: 886.24px;
+    top: 38px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.9672px;
+    line-height: 140%;
+    /* identical to box height, or 34px */
+    
+    
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header-contact {
+    position: absolute;
+    width: 99px;
+    height: 34px;
+    left: 1017.48px;
+    top: 38px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.9672px;
+    line-height: 140%;
+    /* identical to box height, or 34px */
+    
+    
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header-img {
+    z-index: -1;
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+}
+
+.header-search {
+    position: absolute;
+    left: 86.55%;
+    right: 11.79%;
+    top: 38px;
+    bottom: 99.36%;
+}
+.header-bag {
+    top: 38px;
+    position: absolute;
+    left: 89.6%;
+    right: 8.74%;
+    bottom: 99.36%;
+}
+.header-user {
+    top: 38px;
+    position: absolute;
+    left: 92.65%;
+    right: 5.68%;
+
+    bottom: 99.36%;
+}
+
+.header-hr {
+    position: absolute;
+    width: 1912.05px;
+    height: 0px;
+    left: 2.66px;
+    top: 106.52px;
+    
+    border: 1.33151px solid #FFFFFF;
+}
