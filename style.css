@@ -97,3 +97,60 @@
     
     border: 1.33151px solid #FFFFFF;
 }
+
+.header-p {
+    position: absolute;
+    width: 1026px;
+    height: 44px;
+    left: 447px;
+    top: 420px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29.2932px;
+    line-height: 44px;
+    /* identical to box height, or 150% */
+    
+    
+    color: #FFFFFF;
+}
+.header-h1 {
+    position: absolute;
+    width: 967.79px;
+    height: 224px;
+    left: 476px;
+    top: 326px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 200px;
+    line-height: 140%;
+    /* or 280px */
+    
+    
+    color: #FFFFFF;
+}
+.header-button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16.1173px 42.9794px;
+    gap: 13.43px;
+    
+    position: absolute;
+    width: 210.96px;
+    height: 77.23px;
+    left: 858px;
+    top: 701px;
+    color: #FFFFFF;
+    background: #EB4C56;
+    border: #EB4C56;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21.4897px;
+    line-height: 44px;
+}
