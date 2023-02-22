@@ -154,3 +154,128 @@
     font-size: 21.4897px;
     line-height: 44px;
 }
+
+.about-free-img {
+    position: absolute;
+    width: 72.53px;
+    height: 72.53px;
+    left: 299px;
+    top: 1270.14px;
+}
+.about-free-text {
+    position: absolute;
+    height: 41px;
+    left: 392.26px;
+    top: 1239px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27.6315px;
+    line-height: 41px;
+    
+    /* font */
+    
+    color: #081323;
+}
+.about-free-text-small {
+    position: absolute;
+    height: 26px;
+    left: 392.26px;
+    top: 1295.82px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.2697px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    /* Gray 3 */
+    
+    color: #828282;
+}
+.about-pay-img {
+    position: absolute;
+    width: 72.53px;
+    height: 72.53px;
+    left: 816.87px;
+    top: 1270.14px;
+}
+.about-pay-text {
+    position: absolute;
+    height: 41px;
+    left: 910.13px;
+    top: 1239px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27.6315px;
+    line-height: 41px;
+    
+    /* font */
+    
+    color: #081323;
+}
+.about-pay-text-small {
+    left: 910.13px;
+    position: absolute;
+    height: 26px;
+
+    top: 1295.82px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.2697px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    /* Gray 3 */
+    
+    color: #828282;
+}
+.about-support-img {
+    position: absolute;
+    width: 72.53px;
+    height: 72.53px;
+    left: 1307.74px;
+    top: 1270.14px;
+}
+.about-support-text {
+    left: 1401px;
+    position: absolute;
+    height: 41px;
+    top: 1239px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27.6315px;
+    line-height: 41px;
+    
+    /* font */
+    
+    color: #081323;
+}
+.about-support-text-small {
+    left: 1401px;
+    position: absolute;
+    height: 26px;
+    top: 1295.82px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.2697px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    /* Gray 3 */
+    
+    color: #828282;
+}
